@@ -17,6 +17,6 @@ Espero pueda llegar lejos y seguir con más proyectos.
 
 ## Contáctame
 
-> [![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://www.twitter.com/idktomas_/)](https://www.twitter.com/idktomas_/)
+> [![Twitter Badge](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/idktomas_/)
 > [![Discord Badge](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/454774829162430483)
 
