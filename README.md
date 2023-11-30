@@ -1,4 +1,4 @@
-## :uruguay: Tomás 
+## idktomy
 
 :wave: ¡Hola! Me llamo Tomás, pero todos me dicen Tomy. Soy un pibe uruguayo que intenta seguir progresando.
 
