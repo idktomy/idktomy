@@ -5,6 +5,7 @@
 > ## Conocimientos 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; He aprendido mucho sobre este lenguaje y lo sigo haciendo.
+
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; Tengo conocimientos básicos y casi nulos.
 
 Todo el año de 2023 estuve muy metido en mi proyecto principal 'CeriseBot', un bot de discord funcional 
