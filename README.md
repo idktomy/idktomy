@@ -14,6 +14,7 @@ Espero pueda llegar lejos y seguir con más proyectos.
 ## Proyectos
 
 :white_medium_square: [CeriseBot](https://discord.gg/A4RnqucV4k) Main Developer.
+
 :white_medium_square: [CryBot](https://discord.gg/xcry) Idea Manager.
 
 ## Contáctame
