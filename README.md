@@ -1,6 +1,11 @@
 > ## :uruguay: Tomás 
 
 :wave: ¡Hola! Me llamo Tomás, pero todos me dicen Tomy. Soy un pibe uruguayo que intenta seguir progresando.
+Actualmente tengo conocimientos sobre lenguajes como Python, y Java, aunque actualmente no lo utilizo. Sigo
+aprendiendo sobre Python, y me gustaría aprender nuevos lenguajes, como JavaScript. El año pasado (2023)
+estuve muy metido en mi proyecto principal 'CeriseBot', un bot de discord funcional sobre moderación, 
+administración y configuración. Es mi proyecto principal y quiero seguirlo puliendo aún más. Espero pueda
+llegar lejos y seguir con más proyectos.
 
 ----
 
