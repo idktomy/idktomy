@@ -2,8 +2,10 @@
 
 :wave: ¡Hola! Me llamo Tomás, pero todos me dicen Tomy. Soy un pibe uruguayo que intenta seguir progresando.
 
-Actualmente tengo conocimientos sobre lenguajes como Python, y Java, aunque actualmente no lo utilizo. Sigo
-aprendiendo sobre Python, y me gustaría aprender nuevos lenguajes, como JavaScript. 
+> ## Conocimientos 
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; He aprendido mucho sobre este lenguaje y lo sigo haciendo.
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; Tengo conocimientos básicos y casi nulos.
 
 Todo el año de 2023 estuve muy metido en mi proyecto principal 'CeriseBot', un bot de discord funcional 
 sobre moderación, administración y configuración. Es mi proyecto principal y quiero seguirlo puliendo aún más. 
