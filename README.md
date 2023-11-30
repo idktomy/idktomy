@@ -16,7 +16,6 @@ Espero pueda llegar lejos y seguir con más proyectos.
 
 > ## Contáctame
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tomas.abcontacto@gmail.com)](mailto:tomas.abcontacto@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/idktomas_/)](https://www.twitter.com/idktomas_/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://www.twitter.com/idktomas_/)](https://www.twitter.com/idktomas_/)
 [![Discord Badge](https://img.shields.io/badge/Discord-black?logo=discord&logoColor=white)](https://discordapp.com/users/454774829162430483)
 
