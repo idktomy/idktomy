@@ -10,6 +10,6 @@
 ----
 
 ## Proyectos
-- [CeriseBot](https://github.com/IdkTomas/CeriseBot) Developer Principal.
+- [CeriseBot](https://discord.gg/A4RnqucV4k) Developer Principal.
 
 ----
