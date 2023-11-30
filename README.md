@@ -12,12 +12,8 @@ Todo el año de 2023 estuve muy metido en mi proyecto principal 'CeriseBot', un 
 sobre moderación, administración y configuración. Es mi proyecto principal y quiero seguirlo puliendo aún más. 
 Espero pueda llegar lejos y seguir con más proyectos.
 
-----
-
 > ## Proyectos
 • [CeriseBot](https://discord.gg/A4RnqucV4k) Developer Principal.
-
-----
 
 > ## Contáctame
 
