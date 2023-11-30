@@ -8,8 +8,8 @@
 > ![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 
 Todo el año de 2023 estuve muy metido en mi proyecto principal 'CeriseBot', un bot de discord especializado en la moderación, 
-administración y configuración hecho con Python. Es mi proyecto principal y quiero seguirlo puliendo aún más. Espero pueda llegar 
-lejos y seguir con más proyectos.
+administración y configuración de los servidores, hecho con Python. Es mi proyecto principal y quiero seguirlo puliendo aún más. 
+Espero pueda llegar lejos y seguir con más proyectos.
 
 ## Proyectos
 
