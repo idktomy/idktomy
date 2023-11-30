@@ -4,9 +4,8 @@
 
 > ## Conocimientos 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) He aprendido mucho sobre este lenguaje y lo sigo haciendo.
-
-![Photoshop](https://img.shields.io/badge/%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) Tengo bastante conocimiento y sigo aprendiendo para mejorar.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Photoshop](https://img.shields.io/badge/%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 Todo el año de 2023 estuve muy metido en mi proyecto principal 'CeriseBot', un bot de discord funcional 
 sobre moderación, administración y configuración. Es mi proyecto principal y quiero seguirlo puliendo aún más. 
