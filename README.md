@@ -1,16 +1,15 @@
-### Hi there 👋
+## :uruguay: Tomás 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tomas.abcontacto@gmail.com)](mailto:tomas.abcontacto@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/idktomas_/)](https://www.twitter.com/idktomas_/)
+[![Discord Badge](https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white)](https://discordapp.com/users/454774829162430483)
 
-<!--
-**IdkTomas/IdkTomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+¡Hola! Me llamo Tomás, pero todos me dicen Tomy. Soy un pibe uruguayo que intenta seguir progresando.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+## Proyectos
+- [CeriseBot](https://github.com/IdkTomas/CeriseBot) Developer Principal.
+
+----
