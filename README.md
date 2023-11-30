@@ -13,7 +13,7 @@ Espero pueda llegar lejos y seguir con más proyectos.
 
 ## Proyectos
 
-:white_large_square: [CeriseBot](https://discord.gg/A4RnqucV4k) Developer Principal.
+:white_medium_square: [CeriseBot](https://discord.gg/A4RnqucV4k) Developer Principal.
 
 ## Contáctame
 
