@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; He aprendido mucho sobre este lenguaje y lo sigo haciendo.
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; Tengo conocimientos básicos y casi nulos.
+![Photoshop](https://img.shields.io/badge/%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) Tengo bastante conocimiento y sigo aprendiendo para mejorar.
 
 Todo el año de 2023 estuve muy metido en mi proyecto principal 'CeriseBot', un bot de discord funcional 
 sobre moderación, administración y configuración. Es mi proyecto principal y quiero seguirlo puliendo aún más. 
