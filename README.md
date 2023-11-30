@@ -11,5 +11,3 @@
 
 ## Proyectos
 - [CeriseBot](https://discord.gg/A4RnqucV4k) Developer Principal.
-
-----
