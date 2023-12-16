@@ -16,8 +16,6 @@ Espero pueda llegar lejos y seguir con más proyectos.
 
 :white_medium_square: [Idk-Bot](https://discord.gg/A4RnqucV4k) - Main Developer.
 
-:white_medium_square: [CryBot](https://discord.gg/xcry) - Idea Manager.
-
 ## Contáctame
 
 > [![Twitter Badge](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/idktomas_/)
