@@ -9,7 +9,7 @@
 > [![Cinema 4D](https://img.shields.io/badge/Cinema4D-000000?style=for-the-badge&logo=cinema4d&logoColor=white)](https://www.maxon.net/es/cinema-4d)
 
 Todo el año de 2023 estuve muy metido en mi proyecto principal 'Idk-Bot', un bot de discord especializado en la moderación, 
-administración y configuración de los servidores, hecho con Python. Es mi proyecto principal y quiero seguirlo puliendo aún más. 
+administración y configuración de los servidores hecho con Python. Es mi proyecto principal y quiero seguirlo puliendo aún más. 
 Espero pueda llegar lejos y seguir con más proyectos.
 
 ## Proyectos
