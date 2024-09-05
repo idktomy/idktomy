@@ -1,6 +1,6 @@
 ## idktomy
 
-:wave: ¡Hola! Soy Tomás, un pibe uruguayo de 17 años al que le gusta la programación de bots de Discord y diseñar lo que pinte en Photoshop y C4D. Siempre trato aprender y mejorar en mis proyectos.
+:wave: ¡Hola! Soy Tomás, un pibe uruguayo de 17 años al que le gusta la programación de bots de Discord y diseñar lo que pinte en Photoshop y C4D. Siempre trato de aprender y mejorar en mis proyectos.
 
 ## Conocimientos 
 
