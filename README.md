@@ -1,6 +1,6 @@
 ## idktomy
 
-¡Hola! Soy Tomás, un chico uruguayo de 18 años al que le gusta la programación de bots de Discord y diseñar cosas en Photoshop y C4D. Siempre trato de aprender y mejorar en mis proyectos.
+¡Hola! Soy Tomás, un chico uruguayo de 18 años al que le gusta la programación de bots de Discord y diseñar cosas en Photoshop y C4D. Siempre trato de aprender y mejorar en mis proyectos, además de administrar y gestionar servidores de Discord, comunidades y todo lo relacionado con su organización.
 
 ## Conocimientos 
 
